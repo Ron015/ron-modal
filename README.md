@@ -1,34 +1,26 @@
 # 🎨 Ron Modern Modal
 
-```{=html}
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/RonModal-Ultra%20Premium-0f172a?style=for-the-badge&logo=javascript">`{=html}
-`<img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge">`{=html}
-`<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">`{=html}
-`<img src="https://img.shields.io/badge/Dependency-Zero-orange?style=for-the-badge">`{=html}
-`<img src="https://img.shields.io/badge/UI-Modern-purple?style=for-the-badge">`{=html}
-```{=html}
+<img src="https://img.shields.io/badge/RonModal-Ultra%20Premium-0f172a?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Dependency-Zero-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/UI-Modern-purple?style=for-the-badge">
 </p>
-```
-```{=html}
 <p align="center">
-```
-⚡ Ultra Modern Animated JavaScript Modal Library `<br>`{=html} 💎
+⚡ Ultra Modern Animated JavaScript Modal Library `<br> 💎
 Premium UI • 🚀 Lightweight • 🎯 Powerful API
-```{=html}
 </p>
-```
 
 ------------------------------------------------------------------------
 
 ## 🎬 Live Preview
 
-```{=html}
+``
 <p align="center">
 ```
-`<img src="https://via.placeholder.com/900x420/0f172a/ffffff?text=Ron+Modern+Modal+Preview+GIF">`{=html}
-```{=html}
+<img src="https://via.placeholder.com/900x420/0f172a/ffffff?text=Ron+Modern+Modal+Preview+GIF">
+``
 </p>
 ```
 
@@ -222,15 +214,15 @@ RonModal.isOpen()
 
 ## ✅ Success Modal
 
-`<img src="https://via.placeholder.com/800x400/16a34a/ffffff?text=Success+Modal+GIF">`{=html}
+<img src="https://via.placeholder.com/800x400/16a34a/ffffff?text=Success+Modal+GIF">
 
 ## ⚠️ Warning Modal
 
-`<img src="https://via.placeholder.com/800x400/f59e0b/ffffff?text=Warning+Modal+GIF">`{=html}
+<img src="https://via.placeholder.com/800x400/f59e0b/ffffff?text=Warning+Modal+GIF">
 
 ## ⏳ Timer Modal
 
-`<img src="https://via.placeholder.com/800x400/6366f1/ffffff?text=Timer+Modal+GIF">`{=html}
+<img src="https://via.placeholder.com/800x400/6366f1/ffffff?text=Timer+Modal+GIF">
 
 ------------------------------------------------------------------------
 
