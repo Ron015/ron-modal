@@ -18,7 +18,7 @@ Premium UI • 🚀 Lightweight • 🎯 Powerful API
 
 
 <p align="center">
-<img src="https://via.placeholder.com/900x420/0f172a/ffffff?text=Ron+Modern+Modal+Preview+GIF">
+<img src="preview.jpg">
 </p>
 
 ------------------------------------------------------------------------
