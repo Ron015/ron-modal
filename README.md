@@ -18,7 +18,7 @@ Premium UI • 🚀 Lightweight • 🎯 Powerful API
 
 
 <p align="center">
-<img src="preview.jpg">
+<img src="images/preview.jpg">
 </p>
 
 ------------------------------------------------------------------------
@@ -211,15 +211,15 @@ RonModal.isOpen()
 
 ## ✅ Success Modal
 
-<img src="https://via.placeholder.com/800x400/16a34a/ffffff?text=Success+Modal+GIF">
+<img src="images/preview.jpg">
 
 ## ⚠️ Warning Modal
 
-<img src="https://via.placeholder.com/800x400/f59e0b/ffffff?text=Warning+Modal+GIF">
+<img src="images/warning.jpg">
 
 ## ⏳ Timer Modal
 
-<img src="https://via.placeholder.com/800x400/6366f1/ffffff?text=Timer+Modal+GIF">
+<img src="images/timer.jpg">
 
 ------------------------------------------------------------------------
 
