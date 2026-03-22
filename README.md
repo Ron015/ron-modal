@@ -45,8 +45,7 @@ It provides:
 # 🚀 CDN Installation
 
 ``` html
-<link rel="stylesheet" href="https://cdn.yoursite.com/ron-modal.css">
-<script src="https://cdn.yoursite.com/ron-modal.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Ron015/ron-modal@v1.0/ron-modal.min.js"></script>
 ```
 
 Optional Font Awesome:
